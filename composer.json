@@ -1,0 +1,13 @@
+{
+  "name": "nollim/goodbye",
+  "description": "Goodbye module",
+  "type": "module",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "John Toto",
+      "email": "john@example.com"
+    }
+  ],
+  "require": {}
+}
