@@ -1,6 +1,6 @@
 {
-  "name": "nollim/goodbye",
-  "description": "Goodbye module",
+  "name": "nollim/hello",
+  "description": "Hello module",
   "type": "module",
   "license": "GPL-3.0-only",
   "authors": [
